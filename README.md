@@ -1,5 +1,5 @@
 # Covid React App
 ![](covid.gif)
 
-#Screenshot
+# Screenshot
 ![](screen.png)
